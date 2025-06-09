@@ -1,6 +1,7 @@
 # aiml
 2025.06.09
 
+* index.html <---- /Users/paulpaul/Documents/github_fkhafizov/index.html
       …or create a new repository on the command line
       echo "# aiml" >> README.md
       git init
